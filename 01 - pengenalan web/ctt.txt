@@ -1,0 +1,28 @@
+KENAPA WEB?
+- perlu diperhatikan, web bukanlah internet
+
+INTERNET
+- internet adalah mekanisme komunikasi antar kelompok
+- dulu komunikasi antar komputer memerlukan jaringan kabel telepon
+- namun sekarang, semenjak berjamurnya wifi dan sejenisnya, maka hal ini tidak wajib lagi
+
+WEB
+- web merupakan kumpulan informasi yang tersedia dalam sebuah komputer yang terkoneksi secara terus menerus melalu internet
+- web bisa berisi informasi dalam bentuk apapun, seperti teks, gambar, audio, video, dan lain-lain
+- web berjalan di aplikasi yang bernama web server, yaitu aplikasi yang digunakan untuk menyimpan dan menyampaikan isi informasi web
+
+DOMAIN
+- saat komputer web terhubung ke internet, biasanya dia memiliki alamat
+- alamat ini bernama ip address
+- karena alamat ip address sangat sulit untuk diingat, maka ada yang namanya nama domain
+- nama domain adalah alamat yang bisa digunakan sebagai alias ke ip address
+- dengan nama domain, kita sebagai manusia akan mudah mengingat dibandingkan ip address
+- namun, saat kita menggunakan nama domain, sebenarnya komputer tetap akan mengakses web menggunakan alamat ip address
+
+WEB BROWSER
+- jika web server adalah aplikasi yang digunakan untuk menyimpan informasi web
+- maka web browser adalah aplikasi yang digunakan untuk mengakses web melalui internet
+- kita bisa saja mengakses web secara langsung tanpa bantuan web browser, namun web server hanya akan memberikan informasi bahasa mesin seperti html,
+javascript, CSS, gambar, audio, dan lain-lain
+- dengan menggunakan web browser, semua bahasa mesin tersebut bisa ditampilkan secara visual sehingga kita bisa menyerap informasinya
+dengan lebih mudah
