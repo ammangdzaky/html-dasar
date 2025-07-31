@@ -1,0 +1,11 @@
+PENGENALAN HTML
+- html singkatan dari hypertext markup language, ini adalah struktur dasar dari halaman web
+- html mendeskripsikan struktur dari isi konten halaman web
+- selain html, terdapat juga hal lain untuk mendeskripsikan sebuah halaman web, seperti untuk gaya tampilan halaman web menggunakan css atau interkasi halaman web
+menggunakan javascript
+- html sendiri sebenarnya hanyalah kumpulan kode yang berisikan informasi halaman web
+- kode html akan dibaca oleh web browser untuk ditampilkan secara visual
+
+KODE HTML
+- untuk melihat kode html, kita bisa buka website yang kita mau menggunakan web browser
+- lalu gunakan menu view source di aplikasi web browsernya
