@@ -1,0 +1,19 @@
+TAG
+- contoh tag yaitu perlu
+- misal : <p> Programmer Zaman Now </p>
+- <p> diawal adalah tag pembuka, </p> diakhir adalah tag penutup, dan Programmer Zaman Now adalah isi konten dari tag pembuka
+- tag berisi kontennya bisa kita sebut dengan element
+- jadi satu element berisi satu kesatuan tag pembuka, konten, dan tag penutup
+-  <p> Programmer Zaman Now </p> : ini satu element
+
+VOID element
+- pada beberapa kasus, ada tag html yang tidak perlu isi konten, biasa disebut void element
+- contohnya yaitu ketika membuat break line/enter, dengan menggunakan tag break
+- jadi kita bisa la ngsung menuliskan <br> tanpa isi kontennya
+
+ATTRIBUTE
+- element memiliki atribut, atribut adalah informasi tambahan untuk tag yang kita gunakan
+- kita bisa tambahkan atribut di element pada tag pembuka
+- contoh untuk menampilkan gambar, kita bisa gunakan tag <img> dengan atribute source
+- <img src="file.jpg">
+- atribute bisa digunakan di element biasa atau void element
