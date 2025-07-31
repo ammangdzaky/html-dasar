@@ -1,0 +1,4 @@
+WEB HOST
+- pemilik web, biasanya tidak menjalankan aplikasi web server di komputer pribadinya
+- biasanya mereka akan menyewa komputer di tempat penyedia data center (kumpulan komputer) yang terjamin keandalannya (spek) dan kecepatan internetnya
+- pihak penyedia komputer untuk web server biasa disebut web host
