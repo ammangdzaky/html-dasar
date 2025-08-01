@@ -1,0 +1,7 @@
+PARAGRAPH
+- di html, kita bisa mengguankan tag p untuk membuat paragraf
+- paragraf selalu mulai dengan baris baru
+
+CARA BROWSER MENAMPILKAN HTML
+- kita tidak bisa mengontrol cara web browser menampilkan tulisan, seperti di paragparh atau do heading misalnya
+- menambahkan enter atau spasi di tulisan (di file htmlnya), tidak akan menjadikan tampilannya seperti itu di web browser
