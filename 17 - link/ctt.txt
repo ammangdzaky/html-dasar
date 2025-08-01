@@ -1,0 +1,21 @@
+TAG a
+- untuk membuat link di html, kita menggunakan tag a
+- tag memiliki attribute hrf, yang berisi lokasi tujuan link tersebut
+- tag juga memiliki attribute target, target="_self" (akan membuka link di tab saat ini), target="_blank" (akan membuka link di tab baru)
+- tag juga memiliki attribute tittle, untuk menuliskan judul yang keluar ketika mouse berada di atas link tersebut
+
+ABSOLUTE URL
+- alamat lengkap sebuah tujuan link
+- bisa menuju ke domain yang berbeda dengan web yang kita buat
+- contoh : https://instagram.com/ammangdzaky
+
+RELATIVE URL
+- adalah lokai href dimana tetap menggunakan domain website saat ini
+- contoh : contoh.html
+
+BOOKMARK
+- pada kasus halaman web yang sangat panjang, ada bagusnya kita menggunakan bookmark
+- bookmark adalah link yang bisa digunakan untuk menampilkan html elemt dengan id tertentu
+- bookmark menggunakan # pada href, misal jika kita menggunakan index.html#eko, artinya ketika membuka halaman index.html, 
+maka web browser akan otomatis menampilkan pada posisi html element dengan id eko
+- jika kitaa ingin membuat link di halam html itu sendiri, kita bisa langsung buat link dengan href langsung berisi #bookmark nya
