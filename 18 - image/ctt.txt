@@ -1,0 +1,7 @@
+IMAGE ATTRIBUTE
+- src   -> menetukan lokasi gambar, bisa absolute url / relative url
+- alt   -> menentukan representasi text atau tulisan untuk gambar 
+
+IMAGE SIZE
+- untuk mengubah size gambar, kita perlu bantuan css
+- kita bisa gunakan satuan px, atau %
