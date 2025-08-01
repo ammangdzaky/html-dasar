@@ -1,0 +1,3 @@
+EMOJI
+- mirip dengan html entities, kita juga bisa menggunakan kode untuk membuat emoji
+- https://www.quckit.com/character_sets/emoji_v3.0/unicode_emoji_v3.0_characters_all.cfm
