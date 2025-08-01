@@ -1,0 +1,6 @@
+STYLE ATTRIBUTE
+- setiap tag di html memiliki atribute style, dimana kita bisa menambahkan informasi css, yaitu untuk mengubah gaya isi element-nya
+- style attribute berisikan key:value css, jika lebih dari satu, maka gunakan ; (titik koma) sebagai pemisah, misal:
+<nametag style="property:value">
+<nametag style="property:value; property2:value2">
+
