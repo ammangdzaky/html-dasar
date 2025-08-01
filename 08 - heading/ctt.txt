@@ -1,0 +1,4 @@
+TINGKATAN HEADING
+- heading memiliki tingkatan, dari 1 - 6.
+- heading 1 memiliki ukuran text yang paling besar, 2 semakin kecil, dan seterusnya
+- <h1> title </h1>
