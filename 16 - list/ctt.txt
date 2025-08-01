@@ -1,0 +1,13 @@
+UNORDERED LIST
+- untuk membuat daftar tulisan , kita bisa menggunakan tag ul di html
+- tiap daftar isinya, kita bisa menggunakan tag li
+
+ORDERED LIST
+- jika kita ingin membuat daftar yang berurut (mmeiliki angka), kita bisa mengganti tag ul menjadi oleh
+- untk daftar listnya tetap sama menggunakan tag li
+- kita bisa mengubah format angka listnya, defaultnya adalah angka (dimulai dari 1):
+    - type="1", angka (default)
+    - type="A", huruf kapital
+    - type="a", huruf kecil
+    - type="I", romawi kapital
+    - type="i", romawi kecil
