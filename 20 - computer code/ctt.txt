@@ -1,0 +1,9 @@
+COMPUTER CODE
+- kadang kita sering membuat web artikel tentang kode program
+- pada kasus seperti ini, ketika kita membuat kode program html menggunakan paragraph, maka akan menyulitkan, karena semua
+enter dan spasi akan dinormalkan oleh html
+- kadang kita ingin menapilkan kodenya apa adanya
+
+TAG pre
+- untuk menampilkan tulisan di html apa adanya, kita bisa menggunakan tag pre
+- namun perlu diingat, kode html tetap tidak akan ditampilkan, jadi kita harus menggunakan html entities
