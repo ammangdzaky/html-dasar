@@ -1,0 +1,8 @@
+PICTURE
+- selain untuk menampilkan gambar menggunakan tag img, di html juga bisa menggunakan tag picture untuk menampilkan gambar
+- salah satu keuntungan menggunakan tag picture adalah kita bisa menggunakan beberapa lokasi gambar, dan bisa diatur sesuai dengan ukuran layar misalnya.
+Jadi ketika di layar besar, kita bisa kirim gambar dengan ukuran besar, dan ketika layar kecil, kita bisa kirim gambar yang ukuran kecil
+
+PICTURE CONTENT
+- tag img adalah void element, sedangkan tag picture bukan
+- di dalam tag picture, kita bisa menambahkan tag source yang berisi lokasi gambar, dan tag img sebagai default gambar ketika semua kondisi tag source tidak terpenuhi
