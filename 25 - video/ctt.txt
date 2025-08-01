@@ -1,0 +1,10 @@
+VIDEO
+- tidak semua video bisa dijalankan oleh web browser
+- biasanya format video yang digunakan adalah mp4, webm atau ogg
+
+VIDEO ATTRIBUTE
+- width     -> menentukan ukuran lebar video
+- height    -> tinggi video
+- controls  -> menampilkan kontrol video
+- autoplay  -> agar video otomatis berjalan
+- source    -> menampilkan video
