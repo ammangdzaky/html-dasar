@@ -1,0 +1,7 @@
+HEAD
+- tag head digunakan untuk menambahkan informasi yang tidak dimunculkan di halaman web
+- head biasanya digunakan untuk menambah informasi seperti css atau javascript
+- head juga biasa digunakan untuk menambahkan metadata (informasi tambahan) untuk halaman html, biasanya digunakan oleh search engine
+
+TITLE
+- di dalam head, juga bisa menambahkan tag title, yang digunakan untuk mengubah judul halaman di web browser
