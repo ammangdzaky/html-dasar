@@ -1,0 +1,8 @@
+MENJALANKAN DI komputer
+- sebelumnya kita sudah coba membuka file html yang sudah kita biat menggunakan web browser
+- namun cara seperti itu bukanlah hal yang baik, karena nanti akan ada beberapa fiitur di html yang tidak akan berfungsi,
+oleh karena itu disarankan untuk menjalankan web yang kita buat menggunakan aplikasi web server
+
+LIVE SERVER
+- aplikasi web server ada banyak sekali, namun kita akan menggunakan yang paling mudah yaitu sebuah extension di Visual Studio Code
+- kita bisa install extension bernama live server, yang bisa digunakan untuk menjalankan web sever dari visual studio code secara mudah
