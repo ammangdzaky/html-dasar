@@ -1,0 +1,28 @@
+BLOCK DAN INLINE
+- di dalam html, semua element memiliki nilai display, tergantung dari jenis element yang digunakan
+- secara garis besar, ada dua nilai untuk display, block dan inline
+
+BLOCK
+- element yang memiliki nilai display block, selalu dimulai dengan garis baru
+- web browser secara otomatis menambahkan jarak / margib sebelum dan setelah element
+- dan element dengan nilai display block, seallu mengambil ukuran penuh yang tersedia, yang artinya dia akan meregang dari kiri ke kanan
+- contoh: h1-h6, p, header, ul, ol, li, table, form, dll
+
+INLINE
+- sedangkan dalam display inline, element tidak dimuali dengan garis baru
+- selain itu dalam display inline, element hanya menggunakan ukuran seperlunya saja
+- contoh tag : a, b, em, button, strong, input, dll
+
+DIV
+- div adalah salah satu tag di html yang memili nilai display block
+- div biasanya digunakan sebagai container/wadah untuk beberapa element html
+- div banyak digunakan ketika kita ingin membedakan bagian2 dalam element html, misal ada bagian menu, content, footer, header, dll
+- biasanya semua itu dibungkus dalam div
+
+SPAN
+- jika div menggunakan nilai display block, ada lagi tag span, yang menggunakan nilai display inline
+- span biasa digunakan pada kasus kita ingin menggunakan display inline, misal kita mau membuat tulisan programmer zaman now,
+namun tiap kata berbeda warna
+- hal itu tidak bisa dilakukan jika menggunakan p, karena p akan mengubah seluruh warna tulisan 
+- kita bisa gunakan span di tiap kata, agar bisa menambah style di tiap span 
+- intinya fungsinya mirip dengan div (sebagai container), cuma dia untuk kasus inline
