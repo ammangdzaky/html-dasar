@@ -1,0 +1,11 @@
+RESERVED CHARACTERS
+- beberapa karakter sudah dipesan oleh html, sehingga kita tidak bisa gunakan pada tulisan teks biasa, contoh karakter <, /, dan >
+- oleh karena itu, jika kita memkasakan menuliskan hal tersebut di teks paragraf misal, secara otomatis halaman html akan error / rusak
+atau tidak sesuai dengan yang kita mau
+
+ENTITIES
+- karakter yang sudah dipesan di html, dinamakan html entity
+- ada banyak sekali html entity, dan direkomendasikan untuk menggunakan simbol entitynya ketika ingin menggunakan karakter tersebut
+- kita bisa lihat daftar entity di:
+https://oinam.github.io/entities/
+https://html.spec.whatwg.org/multipage/named-characters.html
