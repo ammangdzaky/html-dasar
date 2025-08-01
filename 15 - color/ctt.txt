@@ -1,0 +1,3 @@
+COLOR PICKER
+- salah satu web yang bisa lkita gunakan untuk memilih warna : https://colorpicker.me/
+- disana kita bisa mencari warna yang kita mau, dan menyalin kode hex untuk warna tersebut
