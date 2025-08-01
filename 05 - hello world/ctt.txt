@@ -1,0 +1,5 @@
+TAG BODY
+- struktur html, dimulai dengan menggunakan tah gtml
+- di dalam tag html, terdapat tag BODY
+- di dalam tag body, kita bisa memasukka tag apapaun termasuk tulisan, yang nanti secara ototmatis akan ditampilkan
+di halaman web oleh aplikasi web browser
