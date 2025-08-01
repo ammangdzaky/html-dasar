@@ -1,0 +1,4 @@
+BEST PRACTICE PENAMAAN FILE HTML
+- jangan menggunakan huruf besar, selalu gunakan huruf kecil semua, misal: index.html, home.html
+- jangan menggunakan spasi pada nama file, jika butuh pemisah gunakan - atau _ , misal: belajar-html.html, halaman_login.html
+- jika butuh memnbuat folder, gunakan aturan yang sama  
