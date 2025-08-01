@@ -1,0 +1,20 @@
+HTML 5
+- tahun 2008, html sudah rilis versi 5
+- banyak perubahan yang terjadi di html 5 dari versi sebelumnya html 4, terutama dari interkasi yang lebih kaya (perlu menggunakan javascript)
+- dahulu, ketika ingin membuat web yang interkatif, kebanyakan orang menggunakan adobe flash. Namun sekarang cukup menggunakan html 5,
+css, dan javascript sudah bisa dilakukan
+- html 5 membawa struktur baru pada kerangka pembuatan html
+
+STRUKTUR HTML 5
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Belajar HTML</h1>
+</body>
+</html>
