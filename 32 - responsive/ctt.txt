@@ -1,0 +1,21 @@
+VIEWPORT
+- sebelumnya di html 5, kita melakukan setting viewport dengan initial scale=1.0
+- hal itu dilakukan agar ketika web kita dibuka di mobile (smartphone atau tablet), ukuran web kita mengikuti ukuran layar dari device-nya
+- ingat, tiap hnadphone walaupun ukuran layar misal 6inch, tapi secara pixel bisa berbeda, oleh karena itu ketika kita buat website dengan ukuran 100px
+misal, di handphone dengan kepadatan pixel yang lebih besar, bisa jadi ukurannya sangat kecil, dan pada handphone dengan kepadatan lebih rendah, bisa jadi sangat besar
+- pengaturan viewport bisa mrngubah hal tersebut 
+
+RESPONSIVE ELEMENT SIZE
+- saat kita membuat web, kadang kita menentukan ukuran element, misal gambar, table, dic, dll
+- jika ingin responsive, kita bisa menggunakan % sebagai ukuran elementnya, misal ketika kita gunakan nilai 100%, artinya ukurannya akan 100%
+dari viewport yang tampil di web browser, ketika kita mengubah ukuran web browsernya, secara otomatis element akan ikut berubah ukurannya
+
+RESPONSIVE TEXT SIZE
+- responsive dengan % hanya bisa dilakukan di element
+- bagaimana pada kasus di teks misalnya? kadang kita ingin memebesarkan teks secara otomatis pada layar besar, dan mengecilkan pada ukuran layar kecil
+- pada kasus seperti ini, kita bisa menggunakan unit vw (viewport width) untuk ukuran font
+
+MEDIA QUERY
+- pada kasus seperti gambar, mungkin ketika layar terlalu besar, dan ukuran gamabr kecil, secara otomatis gambar akan pecah, oleh karena itu
+biasanya pada kasus seperti ini, kita akan menyediakan beberapa jenis ukuran gambar
+- dan untuk melakukannya, biasanya kita akan menggunakan css media query, seperti yang pernah dipraktekkan pada materi picture
