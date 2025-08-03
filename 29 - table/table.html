@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TABLE</title>
+</head>
+<body>
+    <h1>TABLE</h1>
+
+    <!-- table 1 -->
+    <h4>Table 1</h4>
+
+    <table>
+        <tr>
+            <th>kode</th>
+            <th>mata kuliah</th>
+        </tr>
+        <tr>
+            <td>01</td>
+            <td>sistem informasi</td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>aktuaria</td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td>matematika</td>
+        </tr>
+    </table>
+
+    <!-- table 2 -->
+    <h4>Table 2</h4>
+
+    <table style="border: 1px solid black;">
+        <thead>
+            <tr>
+                <th>Nama Depan</th>
+                <th>Nama Belakang</th>
+                <th>Nilai</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Abdurrahman</td>
+                <td>Dzaky</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Asep</td>
+                <td>Nugroho</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Budi</td>
+                <td>Simanjuntak</td>
+                <td>80</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td></td>
+                <td>TOTAL</td>
+                <td>240</td>
+            </tr>
+        </tfoot>
+    </table>
+    
+    <!-- Colgroup -->
+    <h4>Colgroup</h4>
+
+    <table style="border: 1px solid black;">
+        <colgroup>
+            <col span="2" style="background-color: aqua;"> <!-- ini artinya kolom 1 dan 2 -->
+            <col style="background-color: greenyellow;"> <!-- jadi ini kolom 3 --> 
+        </colgroup>
+        <thead>
+            <tr>
+                <th>Nama Depan</th>
+                <th>Nama Belakang</th>
+                <th>Nilai</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Abdurrahman</td>
+                <td>Dzaky</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Asep</td>
+                <td>Nugroho</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Budi</td>
+                <td>Simanjuntak</td>
+                <td>80</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td></td>
+                <td>TOTAL</td>
+                <td>240</td>
+            </tr>
+        </tfoot>
+    </table>
+    
+    
+    <!-- Colspan dan Rowspan -->
+    <h4>Colspan dan Rowspan</h4>
+
+    <table style="border: 1px solid black;">
+        <colgroup>
+            <col style="background-color: aqua;">
+            <col style="background-color: purple;">
+            <col style="background-color: pink;">
+        </colgroup>
+        <thead>
+            <tr>
+                <th colspan="2">Nama</th> <!-- gabungkan 2 kolom (kolom saat ini dan kolom selanjutnya) -->
+                <th rowspan="2">Nilai</th>
+            </tr>
+            <tr>
+                <th>Nama Depan</th>
+                <th>Nama Belakang</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Abdurrahman</td>
+                <td>Dzaky</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Asep</td>
+                <td>Nugroho</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Budi</td>
+                <td>Simanjuntak</td>
+                <td>80</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td rowspan="2">HASIL</td>
+                <td>total</td>
+                <td>240</td>
+            </tr>
+            <tr>
+                <td>rata rata</td>
+                <td>80</td>
+            </tr>
+        </tfoot>
+    </table>
+
+
+
+
+
+
+
+</body>
+</html>

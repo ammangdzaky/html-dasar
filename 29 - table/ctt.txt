@@ -1,0 +1,19 @@
+TABLE TAG
+- table     -> membuat table
+- tr        -> membuat row/baris
+- th        -> membuat kolom header table
+- td        -> membuat kolom isi table
+- caption   -> keterangan table
+- thead     -> grup header table
+- tbody     -> grup isi table
+- tfoot     -> grup footer table
+
+COLGROUP
+- kadang kita ingin memberi style untuk kolom, jika dilakukan satu satu maka akan menyulistkan
+- kita bisa menggunakan tag colgroup untuk membuat group kolom, dan tag col untuk tiap kolomnya
+- jika kita ingin menambahkan style ke lebihh dari satu kolom dengan style yang sama, kita bisa gunakan attribute span=jumlah pada tag col
+
+COLSPAN DAN ROWSPAN
+- saat kita membuat table, kadang kita ignin menggabuungkan beberapa kolon atau beberapa baris, sehingga terlihat menjadi satu kolom
+- pada kasus itu, kita bisa menggunakan attribute colspan untuk menggabungkan beberapa kolom dalm satu baris yang sama
+- atau menggunakan attribute rowspan untuk menggabungkan beberapa kolom di baris yang berbeda
