@@ -1,0 +1,20 @@
+ SEMANTIC
+ - semantic element adalah element yang memiliki arti (misal title (judul))
+ - sebelum html 5, setiap kita ingin membuat layout di html, kita biasanya hanya menggunakan tag div dan span, hal ini kadang tidak memiliki arti
+ - di html 5, terdapat tag tag seperti div dan span, namun lebih memiliki arti
+ - oleh karena itu, kita direkomendasikan menggunakan semantic tag agar kode html yang kita buat lebih mudah untuk dibaca dan dimengerti
+
+SEMANTIC TAG
+- article       -> konten artikel
+- aside         -> bagian disamping konten, misal sidebar
+- figure        -> konten ilustrasi, diagram, foto, dll
+- figurecaption -> keterangan tag figure
+- footer        -> bagian footer dokumen
+- header        -> bagian header dokumen
+- main          -> konten utama dokumen
+- mark          -> bagian yang ditandai / highlight
+- nav           -> bagian navigasi link
+- section       -> section di dokumen
+- details       -> bagian yang lebih detail yang bisa pengguna lihat
+- summary       -> heading untuk tag details
+- time          -> konten waktu/tanggal
