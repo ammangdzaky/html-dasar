@@ -1,0 +1,6 @@
+INLINE FRAME
+- pada saat membuat halaman web, kadang kita ingin menampilkan halaman web lain pada halaman tersebut
+- pada kasus seperti itu, kita bisa menggunakan inline frame
+- inline frame di html bisa menggunakan tag iframe
+- inline frame sangat banyak digunakan oleh banyak orang, contohnya di youtube menggunakan inline frame ketika mau menampilkan
+video youtube di website kita
