@@ -1,0 +1,4 @@
+KEUNTUNGAN MENGGUNAKAN ID
+- dengan menggunakan id, kita bisa mengambil element menggunakan javascript lebih mudah
+- dengan menggunakan id, kita bisa mengubah gaya dengan css lebih mudah, apalagi jika terdapat tag yang sama. Misal terdapat 5 tag div, kita hanya ingin mengubah
+gaya pada div tersebut menggunakan css
